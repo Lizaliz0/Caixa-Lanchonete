@@ -52,5 +52,3 @@ class CaixaDaLanchonete {
  
 export { CaixaDaLanchonete }
 
-new CaixaDaLanchonete()
-  .calcularValorDaCompra('debito', ['cafe,1', 'sanduiche,1', 'queijo,1']);
