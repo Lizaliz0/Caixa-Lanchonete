@@ -13,7 +13,6 @@ class CaixaDaLanchonete {
         }
 
         let valorTotal = 0;
-        let itemNaoEncontado = false
         let pedidosFeitos = []
 
         if (itens) {
@@ -28,7 +27,6 @@ class CaixaDaLanchonete {
                     return 'Quantidade inválida!'
 
                 } if (!quantidadeDoItem || !codigoDoItem || !itemCardapio) {
-                        itemNaoEncontado = true
                         return  ('Item inválido!')
 
                 } if (itemCardapio) {
@@ -50,5 +48,7 @@ class CaixaDaLanchonete {
     }
 }   
  
+// Não costumo colocar comentários nos códigos, apenas quando estou aprendendo. 
+
 export { CaixaDaLanchonete }
 
