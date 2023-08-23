@@ -1,7 +1,7 @@
 # CAIXA DA LANCHONETE
-
+<br/>
 <div align="center">
-<img src="https://github.com/Lizaliz0/Lizaliz0/assets/138259133/6df4e6f1-65c2-48c8-be6c-f225609b72ba" width="450px"  />
+<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/bff55644-b964-42a6-8eef-73c2e54b858e" width="400px"  />
 </div>
 <br/>
 
@@ -17,6 +17,19 @@ Para rodar, siga os passos:
 ```bash
 npm install
 ```
+
+#### 📋 Prints do projeto:
+
+<div align="center">
+<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/bff55644-b964-42a6-8eef-73c2e54b858e" width="400px"  />
+</div>
+<br/>
+
+<div align="center">
+<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/bff55644-b964-42a6-8eef-73c2e54b858e" width="400px"  />
+</div>
+
+
 
 
 
