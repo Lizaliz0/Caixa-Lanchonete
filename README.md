@@ -1,9 +1,4 @@
 # CAIXA DA LANCHONETE
-<br/>
-<div align="center">
-<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/bff55644-b964-42a6-8eef-73c2e54b858e" width="400px"  />
-</div>
-<br/>
 
 #### 🚀 Proposta de desafio
 Para esse desafio, foi necessário construir a lógica que calcula o valor de uma compra de acordo com o cardápio, regras e descontos da Lanchonete.
@@ -17,18 +12,18 @@ Para rodar, siga os passos:
 ```bash
 npm install
 ```
+<br/>
 
 #### 📋 Prints do projeto:
 
-<div align="center">
-<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/bff55644-b964-42a6-8eef-73c2e54b858e" width="400px"  />
-</div>
 <br/>
-
 <div align="center">
-<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/bff55644-b964-42a6-8eef-73c2e54b858e" width="400px"  />
+<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/aa86f680-beb3-430e-89ff-90c1c89dac2d" />
 </div>
 
+<div align="center">
+<img src="https://github.com/Lizaliz0/desafio-Lizandra-Gomes/assets/138259133/758cd5e0-bdad-4afd-90e6-61fd6d31a725" />
+</div>
 
 
 
